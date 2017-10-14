@@ -1,0 +1,3 @@
+[submodule "Externals"]
+	path = Externals
+	url = https://kazunoko-gfx@github.com/kazunoko-gfx/origin.git
